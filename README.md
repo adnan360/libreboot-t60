@@ -4,6 +4,7 @@
 
 A Book on how to Libreboot your ThinkPad T60 and liberate yourself - without opening the laptop (currently in Bangla language).
 
+<img src="https://raw.githubusercontent.com/adnan360/libreboot-t60/master/assets/cover/libreboot-t60-bn-cover.svg.png" height="400px" />
 
 [ This book is work in progress. ]
 
